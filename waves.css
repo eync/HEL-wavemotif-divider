@@ -31,43 +31,43 @@
 
         /* Wave motifs */
         .waveTyrsky {
-               -webkit-mask-image: url("/Images/waves/tyrsky.svg");
-                mask-image: url("/Images/waves/tyrsky.svg");
+               -webkit-mask-image: url("/waves/tyrsky.svg");
+                mask-image: url("/waves/tyrsky.svg");
                 -webkit-mask-size: cover;
                 mask-size: cover;
                 bottom:50px;
         }
         /* .waveVarina {
-               -webkit-mask-image: url("/Images/waves/varina.svg");
-                mask-image: url("/Images/waves/varina.svg");
+               -webkit-mask-image: url("/waves/varina.svg");
+                mask-image: url("/waves/varina.svg");
                 -webkit-mask-size: cover;
                 mask-size: cover;
                 bottom:50px;
         }
         .waveSyke {
-               -webkit-mask-image: url("/Images/waves/syke.svg");
-                mask-image: url("/Images/waves/syke.svg");
+               -webkit-mask-image: url("/waves/syke.svg");
+                mask-image: url("/waves/syke.svg");
                 -webkit-mask-size: cover;
                 mask-size: cover;
                 bottom:50px;
         } */
         .wavePulssi {
-               -webkit-mask-image: url("/Images/waves/pulssi.svg");
-                mask-image: url("/Images/waves/pulssi.svg");
+               -webkit-mask-image: url("/waves/pulssi.svg");
+                mask-image: url("/waves/pulssi.svg");
                 -webkit-mask-size: cover;
                 mask-size: cover;
                 bottom:50px;
         }
         .wavePerus {
-               -webkit-mask-image: url("/Images/waves/perus.svg");
-                mask-image: url("/Images/waves/perus.svg");
+               -webkit-mask-image: url("/waves/perus.svg");
+                mask-image: url("/waves/perus.svg");
                 -webkit-mask-size: cover;
                 mask-size: cover;
                 bottom:25px;
         }
         .waveTyyni {
-               -webkit-mask-image: url("/Images/waves/tyyni.svg");
-                mask-image: url("/Images/waves/tyyni.svg");
+               -webkit-mask-image: url("/waves/tyyni.svg");
+                mask-image: url("/waves/tyyni.svg");
                 -webkit-mask-size: cover;
                 mask-size: cover;
                 bottom:25px;
