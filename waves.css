@@ -1,0 +1,74 @@
+        /* 
+            ####--WAVE MOTIF divider--####
+            * Load basic setting for wavemotif
+            * Set Color for the wavemotif
+            * Set the wavemotif u want to be displayed
+            * Example: <div class="wavemotif-loader waveKupari wavePerus"></div>
+            * ------------------------------------------------------------------
+            * When you have certain box area for example <footer></footer> 
+            * you have to include it inside the tags like 
+            * <footer><div class="wavemotif-loader waveKupari wavePerus"></div> REST OF THE CONTENT</footer>
+
+            TODO: Syke & Varina needs to be fixed and fitted. 
+        */
+
+        /* Basic stuff */
+        .wavemotif-loader {
+                display:block;
+                position:relative;
+                width:100%;
+                padding:25px 0;
+                content:"ss";
+        }
+
+        /* Colors for wave motifs */
+        .waveKupari {
+            background-color:#fff;
+        }
+        .waveUIGREY {
+            background-color:#3d3d3d;
+        }
+
+        /* Wave motifs */
+        .waveTyrsky {
+               -webkit-mask-image: url("/Images/waves/tyrsky.svg");
+                mask-image: url("/Images/waves/tyrsky.svg");
+                -webkit-mask-size: cover;
+                mask-size: cover;
+                bottom:50px;
+        }
+        /* .waveVarina {
+               -webkit-mask-image: url("/Images/waves/varina.svg");
+                mask-image: url("/Images/waves/varina.svg");
+                -webkit-mask-size: cover;
+                mask-size: cover;
+                bottom:50px;
+        }
+        .waveSyke {
+               -webkit-mask-image: url("/Images/waves/syke.svg");
+                mask-image: url("/Images/waves/syke.svg");
+                -webkit-mask-size: cover;
+                mask-size: cover;
+                bottom:50px;
+        } */
+        .wavePulssi {
+               -webkit-mask-image: url("/Images/waves/pulssi.svg");
+                mask-image: url("/Images/waves/pulssi.svg");
+                -webkit-mask-size: cover;
+                mask-size: cover;
+                bottom:50px;
+        }
+        .wavePerus {
+               -webkit-mask-image: url("/Images/waves/perus.svg");
+                mask-image: url("/Images/waves/perus.svg");
+                -webkit-mask-size: cover;
+                mask-size: cover;
+                bottom:25px;
+        }
+        .waveTyyni {
+               -webkit-mask-image: url("/Images/waves/tyyni.svg");
+                mask-image: url("/Images/waves/tyyni.svg");
+                -webkit-mask-size: cover;
+                mask-size: cover;
+                bottom:25px;
+        }
